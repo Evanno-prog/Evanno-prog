@@ -1,10 +1,15 @@
+<h1 align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=1500&pause=700&color=FFBD2F&center=true&vCenter=true&random=false&width=400&height=100&lines=Hi+There+%F0%9F%91%8B;I'm+Evan+!" alt="Typing SVG" />
+ </a>
+ </h1>
+ 
 ![R](https://github.com/user-attachments/assets/43665a18-29a4-4821-a23c-d4635b434b97)
-<h1 align="center">Hi 👋, I'm Evan</h1>
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
 
 <h3 align="center">A passionate Backend developer from Syria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evanno-prog&label=Profile%20views&color=0e75b6&style=flat" alt="evanno-prog" /> </p>
+<h1>About me</h1>
 
 - 🔭 I’m currently working on **DVLD**
 
